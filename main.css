@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 29 px;
+}
+#main {
+    width: 800 px;
+    height: 600 px;
+    border: 1 px solid #000;
+}
